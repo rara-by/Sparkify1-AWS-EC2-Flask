@@ -50,7 +50,7 @@ sudo systemctl daemon-reload
 sudo systemctl start app
 sudo systemctl enable app
 ```
-- Check if *app.py* is running
+- Check if `app.py` is running
 ```
 curl localhost:8000
 ```
